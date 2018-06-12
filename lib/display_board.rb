@@ -1,6 +1,6 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
-def board 
+def board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
